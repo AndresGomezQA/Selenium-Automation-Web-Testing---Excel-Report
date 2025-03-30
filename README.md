@@ -1,1 +1,1 @@
-A simple Website Automatation testing using Python and the Selenium webdriver package
+A simple Website Automation testing using Python and the Selenium webdriver package
